@@ -6,7 +6,7 @@ export default function ShareButtons() {
         <div>
             {/* Permet d'avoir à côté du bouton, twitter et facebook */}
             <SharelinkButton/>
-            | Twitter | Facebook
+            {/* | Twitter | Facebook */ }
         </div>
     )
 }
