@@ -3,6 +3,15 @@ import './globals.css'
 import NavBar from "@/components/NavBar"
 import { orbitron, exo2 } from "./fonts"
 
+export const metadata = {
+    title: {
+        default: 'Game',
+        template: '%s | Game'
+    },
+    // Pas d'accolade, car ici, par rapport à 'title', on met pas de paramètre...
+    description: 'Only the best games, reviewed for you'
+}
+
 export default function RootLayout({children}){
     return (
         /** Pas oublier de notifier ici, les différentes classes des fonts, au sinon, elles ne s'importe pas. */
