@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "id": 8,
+      "attributes": {
+        "slug": "review-batman",
+        "title": "batman3",
+        "subtitle": "le roi de la nuit",
+        "publishedAt": "2023-12-19T08:39:29.028Z",
+        "image": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "url": "/uploads/thumb_224842_8306875e30.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "slug": "review-phone3",
+        "title": "phone3",
+        "subtitle": "les 3 téléphones du futur",
+        "publishedAt": "2023-12-19T08:38:53.004Z",
+        "image": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "url": "/uploads/pavan_trikutam_71_Cj_SSB_83_Wo_unsplash_1980x1320_db965f5909.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "slug": "review-work",
+        "title": "workIxelles",
+        "subtitle": "agence de média à Ixelles",
+        "publishedAt": "2023-12-19T08:38:22.696Z",
+        "image": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "url": "/uploads/nastuh_abootalebi_y_Wwob8kw_O_Ck_unsplash_a5fd4ca440.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "slug": "review-seo3",
+        "title": "seo",
+        "subtitle": "seo les 3 lettres principales",
+        "publishedAt": "2023-12-19T08:37:51.650Z",
+        "image": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "url": "/uploads/Capture_d_ecran_526_e395b293cb.png"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "slug": "review-earthBeautiful",
+        "title": "earth",
+        "subtitle": "la terre vue de l'espace",
+        "publishedAt": "2023-12-19T08:37:08.850Z",
+        "image": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "url": "/uploads/1jie_Av_H_f0711ad22f.gif"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "slug": "review-communication",
+        "title": "communication",
+        "subtitle": "la communication au sein du travail",
+        "publishedAt": "2023-12-19T08:36:27.049Z",
+        "image": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "url": "/uploads/b2b_web_design_trends_1f2a3c74fb.jpg"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 6,
+      "pageCount": 2,
+      "total": 8
+    }
+  }
+}

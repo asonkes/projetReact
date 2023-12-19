@@ -27,3 +27,16 @@ npm install --save gray-matter
 
 !!! Dans tailwind, on va dans customization et color et là, on a le choix des couleurs !!!
 
+
+/* Mise en ligne exportation voir le fichier next.config.js npm run build pour avoir le dossier out
+
+pour tester en local npx serve@latest out/
+
+ne pas oublier de mettre /out/ dans gitignore
+
+
+/* Installer et configurer strapi avant de faire le code next et node
+
+pour voir la req strapi api node scripts/strapi-request.mjs
+
+/* npm install qs
