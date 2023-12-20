@@ -32,12 +32,14 @@ export default async function ReviewPage({params: {slug}})
             <Heading>{review.title}</Heading>
 
             <div className="flex gap-3 items-baseline">
-            <p className="italic pb-2">{review.date}</p>
+            <p className="font-semibold pb-3">{review.date}</p>
             <ShareButtons/>
             </div>
 
             <Image width="380" height="380" src={review.image} alt={`image de ${review.title}`} className="mb-4 rounded w-screen mx-auto"/>
-            <article dangerouslySetInnerHTML={{__html: review.body}} className="prose lg:prose-xl"/>
+            <div className="w-full">
+                <article dangerouslySetInnerHTML={{__html: review.body}} className="prose w-full max-w-none"/>
+            </div>
         </>
     )
 }
