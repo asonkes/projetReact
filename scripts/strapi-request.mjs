@@ -12,6 +12,7 @@ const url = "http://localhost:1337/api/reviews" + '?' + qs.stringify({
 }, {encodeValuesOnly: true})
 
 // Ce que le fetch me donne 
+// fetch est une "promesse"
 const response = await fetch(url)
 
 // Je le transforme en "json"
